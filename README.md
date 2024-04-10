@@ -46,7 +46,7 @@ admin.site.register(bookdb,BookAdmin)
 
 ## OUTPUT
 
-![image](https://github.com/Abishai95141/ORM/assets/139335314/3a39a794-bc8b-4299-98ed-81626fb057ce)
+![image](https://github.com/Abishai95141/ORM/assets/139335314/01d89c7f-76f4-42f1-8ddb-b47df36aa904)
 
 
 
